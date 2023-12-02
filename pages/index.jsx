@@ -84,7 +84,7 @@ Vote Keyblade AOİJS</a>
                   <p className="text-3xl text-white font-semibold">Botların en iyisi</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En aktif aoijs botu olan Keyblade AOİJS artık daha güzel.</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/1102100896726388807/1149583621020209162/Screenshot_20230908_085437.jpg" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1074024121077338285/1180415765787193394/Screenshot_20231202_105036.jpg?ex=657d56d9&is=656ae1d9&hm=9f9011740195451c40f07ac301670443ef3af74cf62c6df4604d0bf396c6f762&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
