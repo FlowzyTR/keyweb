@@ -37,14 +37,14 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Ekle BDFD",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/oauth2/authorize?client_id=1096736371172982867&scope=bot%20applications.commands&permissions=2146958847",
+      href: "https://discord.com/oauth2/authorize?client_id=1118497331357159470&scope=bot&permissions=8",
     },
        {
       link: true,
       name: "Oy Ver",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/1096736371172982867/vote",
+      href: "https://top.gg/bot/1118497331357159470/vote",
     },
     {
       link: true,
