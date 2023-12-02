@@ -13,7 +13,7 @@ export default function Index() {
           Keyblade Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       En iyi bdfd botlarından biri olan Keyblade BDFD artık tik aldı.Sizlere teşekkürlerimizi iletiyoruz. 
+       En iyi aoijs botlarından biri olan Keyblade AOİJZ artık tik aldı.Sizlere teşekkürlerimizi iletiyoruz. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -23,11 +23,11 @@ export default function Index() {
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite Keyblade BDFD
+          Invite Keyblade AOİJS
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://top.gg/bot/1096736371172982867/vote"}>
+  <Link href={"https://top.gg/bot/1118497331357159470/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote Keyblade BDFD</a>
   </Link>
