@@ -13,7 +13,7 @@ export default function Index() {
           Keyblade Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       En iyi aoijs botlarından biri olan Keyblade AOİJZ artık tik aldı.Sizlere teşekkürlerimizi iletiyoruz. 
+       En iyi aoijs botlarından biri olan Keyblade AOİJS artık tik aldı.Sizlere teşekkürlerimizi iletiyoruz. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -57,7 +57,7 @@ Vote Keyblade AOİJS</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
-                  <p className="text-gray-500 line-clamp-4">Bi bdfd botu çok hata verir fakat Keyblade BDFD daha az hata vermek için optimize edildi.</p>
+                  <p className="text-gray-500 line-clamp-4">Bi aoijs botu çok hata verir fakat Keyblade AOİJS daha az hata vermek için optimize edildi.</p>
                 </div>
               </div>
               <div>
