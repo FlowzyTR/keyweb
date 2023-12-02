@@ -30,16 +30,16 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://top.gg/tr/bot/1096736371172982867">
-  <img src={"https://top.gg/api/widget/servers/1096736371172982867.svg"}/>
+<a href="https://top.gg/bot/1118497331357159470">
+  <img src={"https://top.gg/api/widget/servers/1118497331357159470.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/tr/bot/1096736371172982867">
-  <img src={"https://top.gg/api/widget/upvotes/1096736371172982867.svg"}/>
+<a href="https://top.gg/bot/1118497331357159470">
+  <img src={"https://top.gg/api/widget/upvotes/1118497331357159470.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/tr/bot/1096736371172982867">
-  <img src={"https://top.gg/api/widget/owner/1096736371172982867.svg"}/>
+<a href="https://top.gg/bot/1118497331357159470">
+  <img src={"https://top.gg/api/widget/owner/1118497331357159470.svg"}/>
 </a>
                                 </div>
                             </Menu>
@@ -48,7 +48,7 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
-                                <Link href="https://top.gg/bot/1096736371172982867/vote">
+                                <Link href="https://top.gg/bot/1118497331357159470/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Oy Ver
                                     </a>
@@ -60,7 +60,7 @@ export default function Footer() {
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://discord.com/oauth2/authorize?client_id=1096736371172982867&scope=bot%20applications.commands&permissions=2146958847" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href=" https://discord.com/oauth2/authorize?client_id=1118497331357159470&scope=bot&permissions=8" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Botu Ekle
                                 </a>
                             </div>
