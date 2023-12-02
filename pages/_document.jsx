@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="En iyi bdfd botu olan Keyblade BDFD botu sizin sayenizde çok büyüdü ve tik aldı herkese teşekkürler."
+            content="En iyi aoijs botu olan Keyblade AOİJS botu sizin sayenizde çok büyüdü ve tik aldı herkese teşekkürler."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@MusicMaker" />
           <meta name="twitter:creator" content="@MusicMaker" />
           <meta property="og:url" content="https://MusicMaker.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Keyblade BDFD" />
+          <meta property="og:title" content="Keyblade AOİJS" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="En güzel bdfd botuna ait."
+            content="En güzel aoijs botuna ait."
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="MusicMaker" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Keyblade BDFD"
+            content="Keyblade AOİJS"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
