@@ -17,7 +17,7 @@ export default function Index() {
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/oauth2/authorize?client_id=1096736371172982867&scope=bot%20applications.commands&permissions=2146958847"}>
+            <Link href={"https://discord.com/oauth2/authorize?client_id=1118497331357159470&scope=bot&permissions=8"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
@@ -29,7 +29,7 @@ export default function Index() {
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/1118497331357159470/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Keyblade BDFD</a>
+Vote Keyblade AOİJS</a>
   </Link>
         </div>
 
@@ -47,8 +47,8 @@ Vote Keyblade BDFD</a>
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Keyblade Bot" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
-            <a href="https://discord.com/oauth2/authorize?client_id=1096736371172982867&scope=bot%20applications.commands&permissions=2146958847" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite Keyblade BDFD
+            <a href="https://discord.com/oauth2/authorize?client_id=1118497331357159470&scope=bot&permissions=8" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+              <i className="fab fa-discord mr-2" />Invite Keyblade AOİJS
             </a>
           </div>
 
@@ -82,7 +82,7 @@ Vote Keyblade BDFD</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1102100896726388807/1149583621020209162/Screenshot_20230908_085437.jpg"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Botların en iyisi</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En aktif bdfd botu olan Keyblade BDFD artık daha güzel.</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En aktif aoijs botu olan Keyblade AOİJS artık daha güzel.</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1102100896726388807/1149583621020209162/Screenshot_20230908_085437.jpg" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
